@@ -1723,9 +1723,8 @@ pre code {
 
 @media (min-width:1200px) {
   .col-xl-6 {
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    max-width: 50%;
+    -ms-flex: 0 0 70%;
+    flex: 0 0 70%;
   }
 }
 
@@ -8424,7 +8423,6 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
 }
 
 .pb-5, .py-5 {
-  padding-bottom: 3rem!important;
 }
 
 .pl-5, .px-5 {
